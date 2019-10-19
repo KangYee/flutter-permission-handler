@@ -6,8 +6,8 @@
 //
 
 typedef NS_ENUM(int, PermissionGroup) {
-    PermissionGroupCamera = 0,
-    PermissionGroupIgnoreBatteryOptimizations,
+    PermissionGroupIgnoreBatteryOptimizations = 0,
+    PermissionGroupCamera,
     PermissionGroupUnknown,
 };
 
